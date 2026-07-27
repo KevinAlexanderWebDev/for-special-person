@@ -18,6 +18,8 @@ const planetConfig = [
   { memoryId: 7, orbitRadius: 18, orbitSpeed: 0.04, size: 0.45, hasRing: true, startAngle: 12, type: "rocky" },
   { memoryId: 8, orbitRadius: 20, orbitSpeed: 0.02, size: 0.32, hasRing: false, startAngle: 14, type: "ice" },
   { memoryId: 9, orbitRadius: 22, orbitSpeed: 0.008, size: 0.20, hasRing: true, startAngle: 16, type: "rocky" },
+  { memoryId: 10, orbitRadius: 24, orbitSpeed: 0.001, size: 0.35, hasRing: true, startAngle: 18, type: "rocky" },
+  { memoryId: 11, orbitRadius: 26, orbitSpeed: 0.00099, size: 0.69, hasRing: false, startAngle: 20, type: "gasGiant" },
 ]
 
 export default function SolarSystemScene() {

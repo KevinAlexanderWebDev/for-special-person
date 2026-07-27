@@ -15,7 +15,7 @@ function App() {
       <ThreeCanvas />
       <div className='ui-overlay' style={{ opacity: loaded ? 1 : 0, transition: 'opacity 0.8s ease' }}>
         <h1>Pecado Olvidar</h1>
-        <p>Haz clic en los planetas para recordar los momentos que nos pegaron como gravedad</p>
+        <p>Haz clic en los planetas si deseas no olvidarnos. Cada órbita, cada constelación y estela, cada planeta y estrella muestran lo inmenso del cosmos tal como lo es mi amor infinito por ti.</p>
       </div>
     </div>
   )

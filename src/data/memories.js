@@ -79,4 +79,20 @@ export const memories = [
         color: '#FF006E',
         image: 'assets/images/memory10.webp',
     },
+     {
+        id: 11,
+        title: 'Un día que detuvo mi tiempo',
+        date: '25/07/2026',
+        message: 'Críticas, miradas de envidia y demás es lo que provocamos cuando salimos. Me encantó pasarla contigo en estos últimos días por acá, agradezco por tu tiempo, tu espacio y por tu amor. Pdt. El mejor recuerdo fue en la madrugada, a base de copas y una noche inolvidable "Inserta frase que repetí mil y un veces y que es una grosería después de andar subido de copas"😂.',
+        color: '#DAA520',
+        image: 'assets/images/memory11.webp',
+    },
+     {
+        id: 12,
+        title: 'My heart is yours',
+        date: 'Siempre',
+        message: 'Una noche, un par de horas. Me encanto saber más de ti. Sorprende el tiempo que perdimos en muchos conflictos antes, no se si lo notaste pero en una hora y media nos pusimos a platicar de nuestra vida, cosas nuestras y demás, ¿lo ves?, nunca terminas de conocer a la persona que amas. Me fascino conocerte aun más y saber que tu papá se desespera enormemente contigo y recordar que, como dicen los chavos "no manches".',
+        color: '#8B008B',
+        image: 'assets/images/memory12.webp',
+    },
 ]
