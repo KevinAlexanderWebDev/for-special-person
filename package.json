@@ -10,7 +10,7 @@
     "preview": "vite preview",
     "deploy": "npm run build && gh-pages -d dist"
   },
-  "homepage": "https://KevinAlexanderWebDev.github.io/for-my-special-person/",
+  "homepage": "https://KevinAlexanderWebDev.github.io/for-special-person/",
   "dependencies": {
     "@react-three/drei": "^10.7.7",
     "@react-three/fiber": "^9.6.1",
