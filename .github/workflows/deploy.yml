@@ -2,10 +2,13 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [master]
+    branches: [master, main] # Escucha cambios tanto en master como en main
+  workflow_dispatch:          # ¡Habilita el botón manual "Run workflow"!
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 jobs:
   build-and-deploy:
