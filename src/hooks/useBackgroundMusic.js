@@ -10,6 +10,7 @@ export default function useBackgroundMusic(src = "assets/audio/audio1975.mp3") {
       loop: true,
       volume: 0.3,
       autoplay: false,
+      html5: true,
     })
 
     const handleInteraction = () => {
